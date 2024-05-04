@@ -1,0 +1,7 @@
+C:\Users\paulo\OneDrive\Desktop\xadez-console\xadez-console\bin\Debug\xadez-console.exe.config
+C:\Users\paulo\OneDrive\Desktop\xadez-console\xadez-console\bin\Debug\xadez-console.exe
+C:\Users\paulo\OneDrive\Desktop\xadez-console\xadez-console\bin\Debug\xadez-console.pdb
+C:\Users\paulo\OneDrive\Desktop\xadez-console\xadez-console\obj\Debug\xadez-console.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Desktop\xadez-console\xadez-console\obj\Debug\xadez-console.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\xadez-console\xadez-console\obj\Debug\xadez-console.exe
+C:\Users\paulo\OneDrive\Desktop\xadez-console\xadez-console\obj\Debug\xadez-console.pdb
