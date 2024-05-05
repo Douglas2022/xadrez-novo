@@ -7,14 +7,9 @@ namespace xadez_console
     {
         static void Main(string[] args)
         {
-            Posicao P;
-            P = new Posicao(3,4);
-
-            Console.WriteLine(" Posicao: " + P);
+            tabuleiro tab  = new tabuleiro(8,8);
 
             Console.ReadLine();
-
-
         }
     }
 }
